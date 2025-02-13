@@ -91,6 +91,8 @@ Design and UI
 - Responsive Layouts: Optimized for both iOS and Android devices.
 - Modern Components: Uses TouchableOpacity, FlatList, and ImageBackground for modern UI/UX.
 
+---
+
 ## 🧩 Dependencies
 Ensure to install the following dependencies:
 
@@ -99,12 +101,4 @@ npx expo install @react-navigation/native @react-navigation/native-stack
 npx expo install @tanstack/react-query axios
 npx expo install @expo/vector-icons
 
----
-## 🙌 Acknowledgments
-React Native for the amazing mobile development framework.
-Unsplash for free-to-use images.
-MockAPI for providing test data.
-
-✨ Author
-Developed with ❤️ by Perwez Alam
 
