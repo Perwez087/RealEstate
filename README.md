@@ -15,10 +15,10 @@ This is a React Native real estate application built with **Expo**, **React Navi
 ---
 
 ## 📱Screenshot
-![image alt](https://github.com/Perwez087/RealEstate/blob/4762bfc942d6424265a4eb96b4e6a95b1a1e10ce/screenshot1.jpg)
-![image alt](https://github.com/Perwez087/RealEstate/blob/4762bfc942d6424265a4eb96b4e6a95b1a1e10ce/screenshot2.jpg)
-![image alt](https://github.com/Perwez087/RealEstate/blob/4762bfc942d6424265a4eb96b4e6a95b1a1e10ce/screenshot3.jpg)
-![image alt](https://github.com/Perwez087/RealEstate/blob/4762bfc942d6424265a4eb96b4e6a95b1a1e10ce/screenshot4.jpg)
+<img src="https://github.com/Perwez087/RealEstate/blob/4762bfc942d6424265a4eb96b4e6a95b1a1e10ce/screenshot1.jpg" alt="screenshot1" width="300">
+<img src="https://github.com/Perwez087/RealEstate/blob/4762bfc942d6424265a4eb96b4e6a95b1a1e10ce/screenshot2.jpg" alt="screenshot2" width="300">
+<img src="https://github.com/Perwez087/RealEstate/blob/4762bfc942d6424265a4eb96b4e6a95b1a1e10ce/screenshot3.jpg" alt="screenshot3" width="300">
+<img src="https://github.com/Perwez087/RealEstate/blob/4762bfc942d6424265a4eb96b4e6a95b1a1e10ce/screenshot4.jpg" alt="screenshot4" width="300">
 
 ---
 
