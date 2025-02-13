@@ -46,10 +46,6 @@ const HomeList = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <TouchableOpacity style={styles.backButton} onPress={() => navigation.goBack()}>
-        <Ionicons name="arrow-back" size={24} color="#333" />
-      </TouchableOpacity>
-
       <FlatList
         data={homes}
         renderItem={renderItem}
@@ -64,16 +60,7 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingHorizontal: 10,
     paddingVertical: 10,
-  },
-  backButton: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    paddingVertical: 10,
-  },
-  backButtonText: {
-    fontSize: 16,
-    color: '#333',
-    marginLeft: 5,
+    marginTop: 30,
   },
   loadingContainer: {
     flex: 1,
