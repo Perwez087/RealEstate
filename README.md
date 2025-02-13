@@ -99,7 +99,8 @@ npx expo install @react-navigation/native @react-navigation/native-stack
 npx expo install @tanstack/react-query axios
 npx expo install @expo/vector-icons
 
-🙌 Acknowledgments
+---
+## 🙌 Acknowledgments
 React Native for the amazing mobile development framework.
 Unsplash for free-to-use images.
 MockAPI for providing test data.
